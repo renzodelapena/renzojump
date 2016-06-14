@@ -1,5 +1,5 @@
 # *RenzoJump*
-<b>Version 1.001<b/>
+<b>Version 1.001<b/> <br>
 <b>Created by Renzo Dela Pena<b/>
 <b>This is a platform game, you control the player to collect all of the spinning boxes.<b/> <br>
 <b>You can double jump!<b/>
